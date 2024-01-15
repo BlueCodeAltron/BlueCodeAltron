@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdul Basit Tonmoy (@BlueCodeAltron)
+- 👋 Hi, I’m Abdul Basit Tonmoy (@abtonmoy)
 - 👀 I’m interested in Mechine Learning, Data Science, SWD, Robotics.
 - 🌱 I’m currently learning Data Stuctures and Algorithms. I am pursuing a Bechelor's degree in Computer Science with Physics and Mathematics minors.
 - 💞️ I’m looking to collaborate on any project that is somehow connected to my interests.
